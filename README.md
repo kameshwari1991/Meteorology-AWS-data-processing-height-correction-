@@ -1,4 +1,4 @@
-# Meteorology-AWS-data-processing
+# Meteorology-AWS-data-processing (height correction to 10m)
 
 The program shall recompute the dry bulb temperature, wind speed, specific humidity from existing height to 10m height. The code takes in relative humidity for obtaining specific humidity and relative humidity at 10m. Wind speed is recomputed to the height of air temperature measurement considering neutral stability. After that all the three variables are recomputed to 10 m using stability criteria. 
 
