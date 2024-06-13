@@ -18,4 +18,5 @@ References :
 4. Smith, S. D. (1980). Wind stress and heat flux over the ocean in gale force winds. Journal of Physical Oceanography, 10(5), 709-726.
 
 Kindly acknowledge/cite this Github repository if using it..thank you and all the best!
-Kameshwari, N. (2021). kameshwari1991/Meteorology-AWS-data-processing-height-correction. GitHub.
+
+"Kameshwari, N. (2021). kameshwari1991/Meteorology-AWS-data-processing-height-correction. GitHub."
